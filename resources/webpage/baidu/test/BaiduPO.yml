@@ -1,0 +1,12 @@
+输入框:
+  locator: id
+  value: kw
+百度一下:
+  locator: id
+  value: su
+logo:
+  locator: id
+  value: s_lg_img
+视频图标:
+  locator: xpath
+  value: //*[@id="s_tab"]/div/a[2]

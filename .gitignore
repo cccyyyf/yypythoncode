@@ -1,0 +1,27 @@
+# Maven #
+target/
+
+#log#
+logs/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.metadata/
+.classpath
+.project
+Servers/
+
+# Mac #
+.DS_Store
+
+# python #
+.pyc
+__pycache__
+allure-results
+reports
+
+.tmp.drivedownload/
