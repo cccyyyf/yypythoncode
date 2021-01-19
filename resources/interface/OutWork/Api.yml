@@ -1,0 +1,32 @@
+接口信息:
+  url: "http://10.10.15.133"
+  headers: {"Content-Type":"application/json"}
+
+DB信息:
+  outwork: {"host":"10.10.15.137", "user":"wpg", "passwd":"Wpg@_@MySQL2oIg", "DB":"waterdb_usercenter","port":3306}
+
+wpg账号:
+  loginName: "deadcells"
+  password: "Abc123456"
+
+租主账号:
+  loginName: "hades"
+  password: "Abc123456"
+
+租户账号:
+  loginName: "diablo"
+  password: "Abc123456"
+
+Redis信息:
+  host: "10.10.15.133"
+  port: 6379
+  password: "Wpg#_#Redisz0iq"
+
+MQTT信息:
+  host: "10.10.15.133"
+  port: 1883
+  username: "wpg"
+  password: "Wpg$_$EmQxZ0iG"
+
+
+

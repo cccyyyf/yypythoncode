@@ -1,0 +1,51 @@
+接口信息:
+  url: "http://10.10.15.133"
+  url1: "http://10.10.15.107"
+  headers: {"Content-Type":"application/json"}
+
+DB信息:
+  devicecenter: {"host":"10.10.15.136", "user":"wpg", "passwd":"Wpg@_@MySQL2oIg", "DB":"waterdb_devicecenter","port":3306}
+  devicecenter1: {"host":"10.10.15.107", "user":"wpg", "passwd":"Wpg@3MuS9L2RIbtR", "DB":"waterdb_devicecenter","port":3306}
+
+wpg账号:
+  loginName: "admin"
+  password: "123456"
+
+租主账号:
+  loginName: "hx0003"
+  password: "wpg@2020"
+
+租户账号:
+  loginName: "hx0004"
+  password: "wpg@2020"
+
+Redis信息:
+  host: "10.10.15.133"
+  port: 6379
+  password: "Wpg#_#Redisz0iq"
+
+MQTT信息:
+  host: "10.10.15.133"
+  port: 1883
+  username: "wpg"
+  password: "Wpg$_$EmQxZ0iG"
+
+站点管理:
+  areaName: "AutoTestAAA"
+  areaNameNew: "AutoTestBBB"
+  stationName: "站点名称接口自动化测试"
+  stationNameNew: "New站点名称接口自动化测试"
+
+接口用户管理:
+  username: "testAutoName"
+  passwd: "TestPassword01"
+  email: "zhghuxin@163.com"
+  deviceId: "19981111"
+  NEWemail: "aaaaa@qq.com"
+
+行业设备信息:
+  deviceName: "testAutoDeviceName"
+  deviceId: "testAutoDeviceID"
+  deviceNameNew: "new_testAutoDeviceName"
+
+
