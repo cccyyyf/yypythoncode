@@ -1,0 +1,15 @@
+# 登录测试用例
+
+positive_logincase:
+    login_positive: {"loginName": "linhz","password": "Lhz123456"}
+
+
+
+negative_logincase:
+    login_insensitive: {"loginName": "Linhz","password": "Lhz123456"}    #用户名大小写敏感
+    login_nothing: {"loginName": "","password": ""}                      #用户名密码都为空
+    login_withoutName: {"loginName": "","password": "Lhz123456"}        #不输入用户名
+    login_withoutPwd: {"loginName": "Linhz","password": ""}             #不输入密码
+    login_negName: {"loginName": "Linying","password": "Ly123456"}      #不存在的用户名
+    login_negPwd: {"loginName": "linhz" , "password": "123456"}         #错误密码
+

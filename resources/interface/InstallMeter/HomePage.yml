@@ -1,0 +1,13 @@
+168服务器接口地址:
+    url: "http://10.10.15.168:8999"
+
+
+公共变量:
+    headers: {"Content-Type":"application/json"}
+
+
+root登陆账号:
+    root_user: "root"
+    root_passwd: "123456"
+
+
