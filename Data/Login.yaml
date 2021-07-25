@@ -1,0 +1,11 @@
+-
+  url: https://github.com/
+  input:
+    name: id
+    value: kw
+    txt: 李宇春
+  click:
+    name: id
+    value: Sign in
+  sleep: 5
+
