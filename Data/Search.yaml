@@ -1,0 +1,23 @@
+-
+  #################case1
+  url: https://www.baidu.com/
+  input:
+    name: id
+    value: kw
+    txt: 李宇春
+  click:
+    name: id
+    value: su
+  sleep: 5
+
+-
+  ################case2
+  url: https://www.baidu.com/
+  input:
+    name: id
+    value: kw
+    txt: 橙不溜
+  click:
+    name: id
+    value: su
+  sleep: 5
