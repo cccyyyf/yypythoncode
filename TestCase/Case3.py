@@ -19,5 +19,5 @@ class GitLogin(unittest.TestCase):
         self.key.click(**kwargs['click'])
 
 
-if __name__ == '__main__':\
+if __name__ == '__main__':
     unittest.main()

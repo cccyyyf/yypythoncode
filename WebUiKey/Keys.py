@@ -54,3 +54,8 @@ class Key:
     def maxwindow(self):
         self.driver.maximize_window()
 
+    #获取网页源码，用于断言
+    def allege(self):
+        return self.driver.page_source()
+
+

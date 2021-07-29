@@ -1,0 +1,29 @@
+-
+  url: http://116.236.135.252:18081/ys/#/login
+  inputname:
+    name: id
+    value: loginName
+    txt: '0014'
+  inputpwd:
+    name: id
+    value: password
+    txt: Ab123456
+  click:
+    name: xpath
+    value: //*[@id="app"]/div/div/div[2]/div/form/div[2]/button
+  sleep: 5
+
+-
+  url: http://116.236.135.252:18081/ys/#/login
+  inputname:
+      name: id
+      value: loginName
+      txt: liyaoyao
+  inputpwd:
+      name: id
+      value: password
+      txt: Ab123456
+  click:
+      name: xpath
+      value: //*[@id="app"]/div/div/div[2]/div/form/div[2]/button
+  sleep: 5
